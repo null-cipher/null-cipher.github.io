@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "I am Captain Nooblan!"
 date:   2016-11-18 21:00:00 +1200
 ---

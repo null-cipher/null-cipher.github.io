@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Create a static blog with Jekyll"
 date:   2016-11-19 11:00:11 +1200
 thumbnail: jekyll.png

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Using Powershell as a REST Client"
 date:   2017-03-07 08:20:11 +1200
 ---
