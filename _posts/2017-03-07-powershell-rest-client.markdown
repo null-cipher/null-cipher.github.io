@@ -1,6 +1,7 @@
 ---
 title:  "Using Powershell as a REST Client"
 date:   2017-03-07 08:20:11 +1200
+published: false
 ---
 In the brave new world ushered in by Microsoft as part of their aggressive push toward Azure services, Powershell is quickly becoming a relevant and necessary tool in the systems administrators kit. Now that even Microsoft are exposing their products configuration via Powershell APIs and declaring that going forward their tools will be "Powershell First". Powershell is becoming as ubiquitous in the Windows world as SSH & Bash are in the Unix sphere.
 

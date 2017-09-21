@@ -1,5 +1,6 @@
 ---
 title:  "I am Captain Nooblan!"
+layout: default
 date:   2016-11-18 21:00:00 +1200
 ---
 Hi, Internet. The handles you will usually find me under are *Captain Nooblan* or *null-cipher* or some variation of those.
