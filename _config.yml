@@ -26,8 +26,12 @@ github_username:  null-cipher
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
+# Github metadata
+github: [metadata]
